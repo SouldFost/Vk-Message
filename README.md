@@ -1,3 +1,6 @@
+The code creates a window program that, when launched, asks the user to enter the vk token of the session to be accessed, then the fields "dialog number" and "message" are filled in
+
+
     from tkinter import *
     from tkinter import messagebox
     import subprocess
