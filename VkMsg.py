@@ -7,11 +7,6 @@
     import vk_api
     import webbrowser
 
-    def information():
-        messagebox.showinfo("Важно!","Данная программа еще вышла с Beta-версии 0.302.031.1     О всех найденных ошибках просим уведомить разработчика")
-
-    information()
-
 
     def exxt():
         window.destroy()
